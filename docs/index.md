@@ -13,6 +13,7 @@ Startify is capable of many feature see following list:
 - Apple like Spotlight Search 🔍 [Usage/Docs](features/spotlight/usage.md)
 - Dynamic Resource Locking 🔒 [Usage/Docs](features/resource-lock/usage.md)
 - Resource Drafts with revisions 📄 [Usage/Docs](features/drafts/usage.md)
+- Url Shortener 💻 [Usage/Docs](features/short-url/usage.md)
 
 ## License key
 Grab your License at
