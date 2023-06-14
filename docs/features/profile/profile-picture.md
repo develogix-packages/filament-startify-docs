@@ -4,7 +4,7 @@ title: Profile Picture
 
 # Profile Picture
 
-![profile_picture_ui_avatar.png](..%2F..%2Fart%2Fscreens%2Fprofile_picture_ui_avatar.png)
+![profile_picture_ui_avatar.png](../../art/screens/profile_picture_ui_avatar.png)
 
 Filament Startify overrides the default profile picture provider,
 instead it uses its own ``UserAvatarProvider::class``.
@@ -86,7 +86,7 @@ You have also a bunch of settings you can play with, following described:
 ## Example
 
 ### Ui-Avatar
-![profile_picture_ui_avatar.png](..%2F..%2Fart%2Fscreens%2Fprofile_picture_ui_avatar.png)
+![profile_picture_ui_avatar.png](../../art/screens/profile_picture_ui_avatar.png)
 
 ### Gravatar
-![profile_picture_gravatar.png](..%2F..%2Fart%2Fscreens%2Fprofile_picture_gravatar.png)
+![profile_picture_gravatar.png](../../art/screens/profile_picture_gravatar.png)

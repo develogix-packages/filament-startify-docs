@@ -3,7 +3,7 @@ title: Spotlight Search
 ---
 
 # Spotlight Search
-![spotlight.png](..%2F..%2Fart%2Fscreens%2Fspotlight.png)
+![spotlight.png](../../art/screens/spotlight.png)
 
 Spotlight is an Apple like search based on Wire-Elements Spotlight. 
 There is no configuration needed.
@@ -39,6 +39,6 @@ Set `enable_spotlight => true` in the ``filament-startify.php`` config:
 ```
 
 ## Examples
-![spotlight_1.png](..%2F..%2Fart%2Fscreens%2Fspotlight_1.png)
+![spotlight_1.png](../../art/screens/spotlight_1.png)
 
-![spotlight_2.png](..%2F..%2Fart%2Fscreens%2Fspotlight_2.png)
+![spotlight_2.png](../../art/screens/spotlight_2.png)

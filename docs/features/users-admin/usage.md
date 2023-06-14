@@ -4,7 +4,7 @@ title: Usage
 
 # User Administration
 
-![user_admin_page_2fa.png](..%2F..%2Fart%2Fscreens%2Fuser_admin_page_2fa.png)
+![user_admin_page_2fa.png](../../art/screens/user_admin_page_2fa.png)
 
 Startify has a builtin User Administration based on a ``UserResource``. 
 

@@ -3,7 +3,7 @@ title: Welcome Mail
 ---
 
 # Welcome Mail
-![user_admin_mail_password.png](..%2F..%2Fart%2Fscreens%2Fuser_admin_mail_password.png)
+![user_admin_mail_password.png](../../art/screens/user_admin_mail_password.png)
 
 By default, Startify sends a custom welcome message including
 the password to the user bases on the set auth method. If
@@ -35,4 +35,4 @@ You can disable this feature
 ```
 
 ### With passkey
-![user_admin_mail_passkey.png](..%2F..%2Fart%2Fscreens%2Fuser_admin_mail_passkey.png)
+![user_admin_mail_passkey.png](../../art/screens/user_admin_mail_passkey.png)

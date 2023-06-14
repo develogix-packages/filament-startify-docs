@@ -3,7 +3,7 @@ title: Sanctum API Tokens
 ---
 
 # Sanctum API Tokens
-![sanctum.png](..%2F..%2Fart%2Fscreens%2Fsanctum.png)
+![sanctum.png](../../art/screens/sanctum.png)
 
 The most recent version of Laravel include Sanctum, but if you don't already
 have the package follow the [installation instructions here](https://laravel.com/docs/10.x/sanctum#installation).

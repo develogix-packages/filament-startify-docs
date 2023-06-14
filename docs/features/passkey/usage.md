@@ -3,7 +3,7 @@ title: Intro
 ---
 
 # Passkey Support
-![passkey_login.png](..%2F..%2Fart%2Fscreens%2Fpasskey_login.png)
+![passkey_login.png](../../art/screens/passkey_login.png)
 Passkeys are more secure than traditional passwords because they are longer 
 and harder to crack. They are resistant to dictionary and rainbow table attacks.
 They lack personal information, making them more resistant to social 

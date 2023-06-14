@@ -3,7 +3,7 @@ title: Two-Factor Auth
 ---
 
 # Enable 2FA (Two-Factor Authentication)
-![two-factor-challenge.png](..%2F..%2Fart%2Fscreens%2Ftwo-factor-challenge.png)
+![two-factor-challenge.png](../../art/screens/two-factor-challenge.png)
 >***HINT**: If you have passkeys enabled in your application you're no longer able
 to use Two-Factor Auth.*
 
@@ -53,5 +53,5 @@ class User extends Authenticatable
 ```
 
 ## Examples
-![two-factor-setup.png](..%2F..%2Fart%2Fscreens%2Ftwo-factor-setup.png)
-![two-factor-enabled.png](..%2F..%2Fart%2Fscreens%2Ftwo-factor-enabled.png)
+![two-factor-setup.png](../../art/screens/two-factor-setup.png)
+![two-factor-enabled.png](../../art/screens/two-factor-enabled.png)

@@ -3,7 +3,7 @@ title: Url Shortener
 ---
 
 # Startify Url Shortener
-![url_short.png](..%2F..%2Fart%2Fscreens%2Furl_short.png)
+![url_short.png](../../art/screens/url_short.png)
 
 If enabled Startify has a built-in Url Shortener for common Tasks
 like sending verification Mails etc. The default urls are long

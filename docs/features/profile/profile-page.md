@@ -4,7 +4,7 @@ title: Profile Page
 
 # Profile Page
 
-![profile.png](..%2F..%2Fart%2Fscreens%2Fprofile.png)
+![profile.png](../../art/screens/profile.png)
 
 Similar to [Extending Components](../auth-handler/components.md), you can add new fields to your Profile forms by extending the Filament Page:
 
@@ -60,4 +60,4 @@ The above method will only allow for adding new fields to the existing
 Personal Information or Password forms.
 
 ## Example
-![profile_page.png](..%2F..%2Fart%2Fscreens%2Fprofile_page.png)
+![profile_page.png](../../art/screens/profile_page.png)

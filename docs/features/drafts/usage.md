@@ -4,7 +4,7 @@ title: Resource Drafts
 
 # Resource Drafts
 
-![draft.png](..%2F..%2Fart%2Fscreens%2Fdraft.png)
+![draft.png](../../art/screens/draft.png)
 
 Startify Drafts gives you the ability to manage and save
 drafts and revisions for your resources. You just
@@ -152,6 +152,6 @@ change the config.
 
 ## Examples
 
-![draft_table.png](..%2F..%2Fart%2Fscreens%2Fdraft_table.png)
+![draft_table.png](../../art/screens/draft_table.png)
 
-![draft_multiple.png](..%2F..%2Fart%2Fscreens%2Fdraft_multiple.png)
+![draft_multiple.png](../../art/screens/draft_multiple.png)
