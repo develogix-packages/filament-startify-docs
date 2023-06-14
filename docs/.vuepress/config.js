@@ -11,6 +11,10 @@ const basePath = "/"
 export default defineUserConfig({
     head:[
         ['script', {}, `
+        
+          
+  
+        
            var _hmt = _hmt || [];
         (function() {
         var hm = document.createElement("script");
@@ -21,6 +25,13 @@ export default defineUserConfig({
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
         })();
+        
+         document.getElementById('go-to-anystack').addEventListener('click', (event) => {
+                event.preventDefault();
+                window.fathom.trackGoal('AUCEO2QV', 0); 
+                window.open("https://checkout.anystack.sh/filament-startify", "_blank");
+            });
+       
         `],
         ['meta', { name: 'twitter:image', content: `https://${ hostname }${ basePath }images/startify.png` }],
         ['link', { rel: 'icon', href: `https://${ hostname }${ basePath }images/logo.svg` }],
@@ -57,6 +68,7 @@ export default defineUserConfig({
                     '/getting-started/index.md',
                     '/getting-started/publish-config.md',
                     '/getting-started/base-setup.md',
+                    '/common/CHANGELOG.md',
                 ]
             },
             {
@@ -86,6 +98,7 @@ export default defineUserConfig({
                             '/features/passkey/setup.md',
                             '/features/passkey/register-link.md',
                             '/features/passkey/config.md',
+                            '/features/passkey/examples.md',
                         ]
                     },
                     '/features/lock-screen/usage.md',
@@ -98,10 +111,20 @@ export default defineUserConfig({
                             '/features/profile/profile-picture.md',
                         ]
                     },
+                    {
+                        text: 'User Administration',
+                        collapsible: true,
+                        children: [
+                            '/features/users-admin/usage.md',
+                            '/features/users-admin/extend.md',
+                            '/features/users-admin/mail.md',
+                        ]
+                    },
                     '/features/sanctum/usage.md',
                     '/features/spotlight/usage.md',
                     '/features/drafts/usage.md',
                     '/features/resource-lock/usage.md',
+                    '/features/short-url/usage.md',
                     '/features/toggle-icon-column/usage.md',
 
                 ]
@@ -110,7 +133,6 @@ export default defineUserConfig({
                 text: 'Misc',
                 children: [
                     '/common/testing.md',
-                    '/common/CHANGELOG.md',
                 ]
             },
             {

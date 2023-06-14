@@ -4,15 +4,17 @@ title: Profile Page
 
 # Profile Page
 
-Similar to above, you can add new fields to your Profile forms by extending the Filament Page:
+![profile.png](..%2F..%2Fart%2Fscreens%2Fprofile.png)
+
+Similar to [Extending Components](../auth-handler/components.md), you can add new fields to your Profile forms by extending the Filament Page:
 
 ```php:no-line-numbers
 namespace App\Filament\Pages;
 
-use DevelogixPackages\FilamentStartify\Pages\MyProfile as BaseProfile;
+use DevelogixPackages\FilamentStartify\Pages\Profile as BaseProfile;
 use Filament\Forms;
 
-class MyProfile extends BaseProfile
+class Profile extends BaseProfile
 {
 
   // ..
@@ -44,7 +46,7 @@ Filament::serving(function () {
     // ..
     
     Filament::registerUserMenuItems([
-        'account' => UserMenuItem::make()->url(MyProfile::getUrl()),
+        'account' => UserMenuItem::make()->url(Profile::getUrl()),
     ]);
     
     // ..
@@ -56,3 +58,6 @@ Filament::serving(function () {
 you will need to extend the class and publish/create your own views.
 The above method will only allow for adding new fields to the existing
 Personal Information or Password forms.
+
+## Example
+![profile_page.png](..%2F..%2Fart%2Fscreens%2Fprofile_page.png)

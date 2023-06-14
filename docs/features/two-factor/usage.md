@@ -3,7 +3,7 @@ title: Two-Factor Auth
 ---
 
 # Enable 2FA (Two-Factor Authentication)
-
+![two-factor-challenge.png](..%2F..%2Fart%2Fscreens%2Ftwo-factor-challenge.png)
 >***HINT**: If you have passkeys enabled in your application you're no longer able
 to use Two-Factor Auth.*
 
@@ -39,9 +39,9 @@ Set `enable_2fa => true` in the ``filament-startify.php`` config:
 you can update the table name in the ``filament-startify.php`` config
 or modify the published migration.
 
+## Add to User
 
 Add `DevelogixPackages\FilamentStartify\Traits\TwoFactor\HasTwoFactor` to your Authenticatable model:
-
 
 ```php:no-line-numbers
 use DevelogixPackages\FilamentStartify\Traits\TwoFactor\HasTwoFactor;
@@ -51,3 +51,7 @@ class User extends Authenticatable
     use HasApiTokens, HasFactory, Notifiable, HasTwoFactor;
     ...
 ```
+
+## Examples
+![two-factor-setup.png](..%2F..%2Fart%2Fscreens%2Ftwo-factor-setup.png)
+![two-factor-enabled.png](..%2F..%2Fart%2Fscreens%2Ftwo-factor-enabled.png)

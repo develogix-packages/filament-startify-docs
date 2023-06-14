@@ -3,7 +3,7 @@ title: Lock Screen
 ---
 
 # Lock Screen
-
+![lockscreen_password.png](..%2F..%2Fart%2Fscreens%2Flockscreen_password.png)
 Lock Screen is a simple way to offer your users the possibility to 
 lock their account without having to log in again. When an account 
 is locked, it only needs the user's password, or if enabled, the 
@@ -84,3 +84,13 @@ To enable Lock Screen set `enable_lock_screen => true` in the ``filament-startif
 
 >Details to Segment Needle checkout [Laravel Illuminate Request](https://laravel.com/api/10.x/Illuminate/Http/Request.html#method_segment).
 
+## Examples
+
+### With Password
+![lockscreen_password.png](..%2F..%2Fart%2Fscreens%2Flockscreen_password.png)
+
+### With Passkey
+![lockscreen_passkey.png](..%2F..%2Fart%2Fscreens%2Flockscreen_passkey.png)
+
+### Usermenu Button
+![lockscreen_user_menu.png](..%2F..%2Fart%2Fscreens%2Flockscreen_user_menu.png)

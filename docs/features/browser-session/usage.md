@@ -4,6 +4,8 @@ title: Browser Session Overview
 
 # Browser Sessions Overview
 
+![browser_session.png](..%2F..%2Fart%2Fscreens%2Fbrowser_session.png)
+
 Browser Session displays an overview over all logged in sessions from a user in the profile.
 Browser Sessions are disabled by default. You can enable it in the configuration file.
 

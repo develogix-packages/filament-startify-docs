@@ -3,7 +3,9 @@
 
 ## License 
 
-Get your license at [AnyStack.sh](https://checkout.anystack.sh/filament-startify).
+
+Get your license at
+<a href="https://checkout.anystack.sh/filament-startify" onclick="fathom.trackGoal('AUCEO2QV', 0);">AnyStack.sh</a>.
 
 ## Documentation
 

@@ -3,7 +3,7 @@ title: Enable Registration
 ---
 
 # Enable Registration
-
+![Filament Startify cover](../../art/screens/register.png)
 ## Setup
 
 Registration is disabled by default for security reasons.

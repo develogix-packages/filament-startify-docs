@@ -15,7 +15,9 @@ Startify is capable of many feature see following list:
 - Resource Drafts with revisions 📄 [Usage/Docs](features/drafts/usage.md)
 
 ## License key
-Grab your License at [AnyStack.sh - Filament Startify](https://checkout.anystack.sh/filament-startify).\
+Grab your License at
+<a id="go-to-anystack" href="#">AnyStack.sh - Filament Startify</a>.
+\
 *[FilamentPHP](https://filamentphp.com) is getting a commission for every purchase, 
 support their and my work.*
 

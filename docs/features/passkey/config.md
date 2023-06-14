@@ -96,28 +96,32 @@ are the most compatible ones for in-device and
 roaming keys, since some must be transmitted on low bandwidth protocols. 
 You will need to publish the config to override this config value.
 
+If set to ``null`` following algos will be used by default:
+`ES256`,`ES256K`,`ES512`,`RS384`,`RS512`,`PS256`,`PS384`,
+`PS512`,`ED256`,`ED512`,`RS256`,`EdDSA`,`ES384`
+
+
+```php:no-line-numbers
+
+'passkey' => [
+    ...
+     'public_key_credential_parameters' => null,
+    ...
+],
+  
+```
+
 >**Warning**: Only modify if you know what you're doing.
+
+To override the used algos define like that:
 
 ```php:no-line-numbers
 
 'passkey' => [
     ...
      'public_key_credential_parameters' => [
-            (string) \Cose\Algorithms::COSE_ALGORITHM_ES256,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_ES256K,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_ES512,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_RS384,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_RS512,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_PS256,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_PS384,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_PS512,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_ED256,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_ED512,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_RS256,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_EdDSA,
-            (string) \Cose\Algorithms::COSE_ALGORITHM_ES384,
-        ],
+           (string) \Cose\Algorithms::COSE_ALGORITHM_ES384,
+      ],
     ...
 ],
-  
 ```
