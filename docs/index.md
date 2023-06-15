@@ -33,9 +33,14 @@ Please visit my public [Startify Docs](https://github.com/develogix-packages/fil
 repository for any issue reports.
 
 ## Attribution
-I have not developed everything on my own! I've used some well codes 
+I have not developed everything on my own! I've used some well coded 
 open-source packages and will also give the right attribution to the 
 creators.
+
+Please understand that I could not include every namespace and vendor names,
+because I didn't want to require to many packages. I've picked what suites best 
+and implemented it. Every file that was not only my work is marked with 
+the creator.
 
 My intention with this package is to boost up your workflow, by combining
 this available amazing features into one package and make them work together like a charm.
