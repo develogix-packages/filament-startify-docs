@@ -38,7 +38,7 @@ open-source packages and will also give the right attribution to the
 creators.
 
 My intention with this package is to boost up your workflow, by combining
-this available features into one package and make work together like charm.
+this available amazing features into one package and make them work together like a charm.
 
 
 ## License
