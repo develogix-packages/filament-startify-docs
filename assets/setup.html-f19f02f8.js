@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1b2decf6","path":"/features/passkey/setup.html","title":"Setup","lang":"en-US","frontmatter":{"title":"Setup"},"headers":[],"git":{"updatedTime":1686609268000},"filePathRelative":"features/passkey/setup.md"}');export{e as data};

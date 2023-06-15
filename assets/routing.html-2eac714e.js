@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5325eae4","path":"/features/auth-handler/routing.html","title":"Route Group Prefix","lang":"en-US","frontmatter":{"title":"Route Group Prefix"},"headers":[],"git":{"updatedTime":1686609268000},"filePathRelative":"features/auth-handler/routing.md"}');export{e as data};

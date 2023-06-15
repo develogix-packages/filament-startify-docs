@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54c2bb07","path":"/features/profile/profile-page.html","title":"Profile Page","lang":"en-US","frontmatter":{"title":"Profile Page"},"headers":[{"level":2,"title":"Example","slug":"example","link":"#example","children":[]}],"git":{"updatedTime":1686777609000},"filePathRelative":"features/profile/profile-page.md"}');export{e as data};

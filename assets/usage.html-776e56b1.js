@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4b127f46","path":"/features/toggle-icon-column/usage.html","title":"Toggle Icon Column","lang":"en-US","frontmatter":{"title":"Toggle Icon Column"},"headers":[],"git":{"updatedTime":1686849191000},"filePathRelative":"features/toggle-icon-column/usage.md"}');export{e as data};

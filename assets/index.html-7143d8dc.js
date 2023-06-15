@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ccdc4da0","path":"/getting-started/","title":"Installation via Composer","lang":"en-US","frontmatter":{"title":"Installation via Composer"},"headers":[],"git":{"updatedTime":1686609268000},"filePathRelative":"getting-started/index.md"}');export{t as data};

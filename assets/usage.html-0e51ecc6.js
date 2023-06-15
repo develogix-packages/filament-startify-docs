@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c0ee2ca8","path":"/features/spotlight/usage.html","title":"Spotlight Search","lang":"en-US","frontmatter":{"title":"Spotlight Search"},"headers":[{"level":2,"title":"Examples","slug":"examples","link":"#examples","children":[]}],"git":{"updatedTime":1686849191000},"filePathRelative":"features/spotlight/usage.md"}');export{e as data};

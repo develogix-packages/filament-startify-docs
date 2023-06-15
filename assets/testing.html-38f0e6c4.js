@@ -1,0 +1,2 @@
+import{_ as t,o as s,c as a,a as e,b as n}from"./app-a94f4892.js";const o={},c=e("h1",{id:"testing",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#testing","aria-hidden":"true"},"#"),n(" Testing")],-1),i=e("p",null,"You can run package tests using following command:",-1),r=e("div",{class:"language-bash","data-ext":"sh"},[e("pre",{class:"language-bash"},[e("code",null,`vendor/bin/pest
+`)])],-1),d=[c,i,r];function l(_,h){return s(),a("div",null,d)}const g=t(o,[["render",l],["__file","testing.html.vue"]]);export{g as default};

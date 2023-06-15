@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1b8da3f4","path":"/features/auth-handler/configuration.html","title":"Configuration","lang":"en-US","frontmatter":{"title":"Configuration"},"headers":[],"git":{"updatedTime":1686609268000},"filePathRelative":"features/auth-handler/configuration.md"}');export{t as data};
