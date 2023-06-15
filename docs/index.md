@@ -32,6 +32,15 @@ See the documentation for detailed
 Please visit my public [Startify Docs](https://github.com/develogix-packages/filament-startify-docs)
 repository for any issue reports.
 
+## Attribution
+I have not developed everything on my own! I've used some well codes 
+open-source packages and will also give the right attribution to the 
+creators.
+
+My intention with this package is to boost up your workflow, by combining
+this available features into one package and make work together like charm.
+
+
 ## License
 
 This package is licensed under the [Custom License](license.md).

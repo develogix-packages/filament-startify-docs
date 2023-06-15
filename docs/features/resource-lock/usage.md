@@ -4,6 +4,7 @@ title: Resource Lock
 
 # Resource Lock
 ![resource_lock.png](../../art/screens/resource_lock.png)
+> Based on [resource-lock by kenepa](https://github.com/kenepa/resource-lock)
 
 Startify Resource Lock is way to prevent two users from editing the
 same resource. If a user begins editing a resource, your app

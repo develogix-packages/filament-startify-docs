@@ -3,6 +3,8 @@ title: Spotlight Search
 ---
 
 # Spotlight Search
+> Based on [spotlight by wire-elements](https://github.com/wire-elements/spotlight)
+
 ![spotlight.png](../../art/screens/spotlight.png)
 
 Spotlight is an Apple like search based on Wire-Elements Spotlight. 

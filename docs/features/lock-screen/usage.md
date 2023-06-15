@@ -3,6 +3,8 @@ title: Lock Screen
 ---
 
 # Lock Screen
+> Based on [filament-lockscreen by MarJose123](https://github.com/MarJose123/filament-lockscreen)
+
 ![lockscreen_password.png](../../art/screens/lockscreen_password.png)
 Lock Screen is a simple way to offer your users the possibility to 
 lock their account without having to log in again. When an account 

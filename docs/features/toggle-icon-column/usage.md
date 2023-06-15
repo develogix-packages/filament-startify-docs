@@ -3,6 +3,7 @@ title: Toggle Icon Column
 ---
 
 # Toggle Icon Column
+> Based on [filament-toggle-icon-column by archilex](https://github.com/archilex/filament-toggle-icon-column)
 
 The Toggle Icon Column gives the ability to toggle specific boolean 
 values just with a click.

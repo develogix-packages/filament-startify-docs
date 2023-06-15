@@ -3,6 +3,7 @@ title: Resource Drafts
 ---
 
 # Resource Drafts
+> Based on [filament-drafts by GuavaCZ](https://github.com/GuavaCZ/filament-drafts)
 
 ![draft.png](../../art/screens/draft.png)
 
